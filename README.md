@@ -1,5 +1,4 @@
 <h1 align="center">I'am Shadow Tak</h1>
-<h3 align="center">I Love HEE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=takkza&label=Profile%20views&color=0e75b6&style=flat" alt="takkza" /> </p>
 
